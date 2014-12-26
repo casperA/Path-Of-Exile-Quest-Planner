@@ -6,5 +6,5 @@ public final class Quest {
 	private Difficulty difficulty ;
 	private QuestReward reward ;
 	//Quest prerequs
-	//Plot quest?
+	private Boolean required ;
 }
